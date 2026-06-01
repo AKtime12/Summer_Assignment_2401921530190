@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This repository contains solutions and implementations of various Data Structures and Algorithms (DSA) concepts assigned as part of the Summer Assignment. The objective of this assignment is to strengthen problem-solving skills, understand algorithmic thinking, and learn efficient data organization techniques.
 
@@ -21,7 +21,7 @@ The project includes implementations of fundamental and advanced DSA topics alon
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand basic and advanced data structures.
 * Learn algorithm design techniques.
@@ -31,7 +31,7 @@ The project includes implementations of fundamental and advanced DSA topics alon
 
 ---
 
-## 📂 Topics Covered
+##  Topics Covered
 
 ### Data Structures
 
@@ -60,7 +60,7 @@ The project includes implementations of fundamental and advanced DSA topics alon
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Programming Language: Java / C++ / Python
 * IDE: VS Code / IntelliJ IDEA / Eclipse
@@ -68,7 +68,7 @@ The project includes implementations of fundamental and advanced DSA topics alon
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 SUMMER_ASSIGNMENT_2401921530190/
@@ -83,7 +83,7 @@ SUMMER_ASSIGNMENT_2401921530190/
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 ### Java
 
@@ -107,7 +107,7 @@ python filename.py
 
 ---
 
-## ⏱ Complexity Analysis
+##  Complexity Analysis
 
 | Algorithm     | Best Case  | Average Case | Worst Case |
 | ------------- | ---------- | ------------ | ---------- |
@@ -119,7 +119,7 @@ python filename.py
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 After completing this assignment, I gained knowledge about:
 
@@ -132,7 +132,7 @@ After completing this assignment, I gained knowledge about:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add advanced graph algorithms.
 * Implement Dynamic Programming problems.
@@ -141,14 +141,14 @@ After completing this assignment, I gained knowledge about:
 
 ---
 
-## 📄 Conclusion
+##  Conclusion
 
 This summer assignment helped in building a strong foundation in Data Structures and Algorithms. It improved problem-solving abilities and provided practical experience in implementing various data structures and algorithms efficiently.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Rahul Sharma**
 
-Data Structures and Algorithms Summer Assignment 2025-26
+Data Structures and Algorithms Summer Assignment 2026-27
