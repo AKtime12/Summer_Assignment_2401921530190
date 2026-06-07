@@ -92,10 +92,10 @@ Sorry, you are allowed to take only kids books
 
 === Test Case_2 - Adult User ===
 // input for adult_1: age = 5, bookType = "Kids"
-You have successfully registered under an Adult Account
-Book Issued successfully, please return the book within 7 days
-
-// input for adult_2: age = 23, bookType = "Fiction"
 Sorry, Age must be greater than 12 to register as an adult
 Sorry, you are allowed to take only adult Fiction books
+
+// input for adult_2: age = 23, bookType = "Fiction"
+You have successfully registered under an Adult Account
+Book Issued successfully, please return the book within 7 days
 */
