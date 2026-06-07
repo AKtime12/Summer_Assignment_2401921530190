@@ -15,7 +15,7 @@ class KidUsers implements LibraryUser {
     public void requestBook() {
         if (bookType.equals("Kids")) {
             System.out.println("Book Issued successfully, please return the book within 10 days");
-        } else System.out.println("Sorry, you are allowed to take only kids books");
+        } else System.out.println("Oops, you are allowed to take only kids books");
     }
 }
 class AdultUser implements LibraryUser{
@@ -30,7 +30,7 @@ class AdultUser implements LibraryUser{
     public void requestBook() {
         if (bookType.equals("Fiction")) {
             System.out.println("Book Issued successfully, please return the book within 7 days");
-        } else System.out.println("Sorry, you are allowed to take only adult Fiction books");
+        } else System.out.println("Oops, you are allowed to take only adult Fiction books");
     }
     
 }
@@ -88,12 +88,12 @@ Book Issued successfully, please return the book within 10 days
 
 // input for kid_2: age = 18, bookType = "Fiction"
 Sorry, Age must be less than 12 to register as a kid
-Sorry, you are allowed to take only kids books
+Oops, you are allowed to take only kids books
 
 === Test Case_2 - Adult User ===
 // input for adult_1: age = 5, bookType = "Kids"
 Sorry, Age must be greater than 12 to register as an adult
-Sorry, you are allowed to take only adult Fiction books
+Oops, you are allowed to take only adult Fiction books
 
 // input for adult_2: age = 23, bookType = "Fiction"
 You have successfully registered under an Adult Account
