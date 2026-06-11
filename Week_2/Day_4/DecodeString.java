@@ -1,4 +1,4 @@
-class Solution {
+class DecodeString {
     private int index = 0;
     public String decodeString(String s) {
         StringBuilder result = new StringBuilder();
