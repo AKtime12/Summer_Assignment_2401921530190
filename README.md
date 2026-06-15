@@ -5,7 +5,6 @@
 ### Student Information
 
 * **Name:** Rahul Sharma
-* **Roll Number:** 2401921530190
 * **Course:** Data Structures and Algorithms
 * **Semester:** _____5th_____
 * **College:** ____GL BAJAJ INSTITUTE OF TECHNOLOGY AND MANAGEMENT, GREATER NOIDA______
